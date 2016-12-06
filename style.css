@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-size: 18 px;
+  font-family: Helvetica;
+}
+
+.row {
+  display: flex;
+  margin:20px;
+  height: 100%;
+}
+
+.description {
+  color: blue;
+  font-family: serif;
+  margin-right: 10px;
+  margin-left: 20px;
+  width: 50%;
+}
+
+.blue {
+  background-color: lightgreen;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.footer {
+  color: white;
+  padding:1em;
+  background-color: black;
+}
+
+.blue {
+  line-height:3em;
+  vertical-align:middle;
+}
+
+.email {
+  color: black;
+  margin: 20px;
+  text-align: center;
+  float:right;
+  width: 50%;
+}
+
+.image {
+  border: 2px black;
+  margin-left: 20px;
+  width: 50%;
+  height: 50%;
+}
